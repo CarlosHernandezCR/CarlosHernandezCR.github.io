@@ -1,5 +1,5 @@
 ---
-title: Welcome to My Webpage
+title: Welcome
 ---
 
 # Welcome to My Webpage
