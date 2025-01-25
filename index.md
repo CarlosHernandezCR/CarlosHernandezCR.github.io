@@ -1,7 +1,6 @@
 ---
-title: Welcome
+title: Welcome!
 ---
-# Welcome!
 
 Hello, my name is **Carlos Raul Hernandez Campos**. I am passionate about technology and programming, with a strong background in Telecommunications Engineering and Multiplatform Application Development.
 
