@@ -2,7 +2,8 @@
 title: Welcome!
 ---
 
-Hello, my name is **Carlos Raul Hernandez Campos**. I am passionate about technology and programming, with a strong background in Telecommunications Engineering and Multiplatform Application Development.
+Hello, my name is **Carlos Raul Hernandez Campos**. 
+I am passionate about technology and programming, with a strong background in Telecommunications Engineering and Multiplatform Application Development.
 
 On this webpage, you'll find:
 - **My Story**: How I discovered my passion for programming.
