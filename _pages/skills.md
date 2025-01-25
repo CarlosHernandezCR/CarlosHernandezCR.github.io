@@ -1,6 +1,7 @@
 ---
 title: Skills
 permalink: /skills/
+layout: default
 ---
 # My Skills
 
