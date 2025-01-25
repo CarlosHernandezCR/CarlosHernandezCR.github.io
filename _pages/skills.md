@@ -1,3 +1,9 @@
+---
+title: My Skills
+permalink: /skills/
+layout: default
+---
+
 <div class="container my-5">
   <h1 class="text-center mb-4">My Skills</h1>
   <p class="text-center">Throughout my academic and professional journey, I have gained expertise in a variety of programming languages, tools, and technologies. Below is a summary of my key skills:</p>
