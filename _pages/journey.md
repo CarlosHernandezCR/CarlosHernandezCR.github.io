@@ -1,3 +1,8 @@
+---
+title: My Journey
+permalink: /journey/
+---
+
 # My Journey in Programming
 
 My programming journey began during my Telecommunications degree. At first, it felt like an alien language, but that mystery sparked my curiosity. Once I started understanding it, learning **C** was like playing a video-game ,music on, relaxing, and experimenting with small projects. I created a calculator, an ATM system, a Pascal Pyramid... which taught me about efficient coding and problem-solving.
