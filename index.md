@@ -1,5 +1,6 @@
 ---
 title: Welcome!
+layout: default
 ---
 
 Hello, my name is **Carlos Raul Hernandez Campos**. 
