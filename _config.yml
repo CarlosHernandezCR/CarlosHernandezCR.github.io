@@ -1,4 +1,8 @@
-theme: minima
 title: My Webpage
-author: Carlos Raul Hernandez Campos 
-description: A webpage where you will find presentations of my projects, knowledges and skills
+author: Carlos Raul Hernandez Campos
+description: A webpage to showcase my projects, skills, and experience.
+theme: minima
+
+collections:
+  pages:
+    output: true
