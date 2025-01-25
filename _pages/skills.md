@@ -1,3 +1,7 @@
+---
+title: Skills
+permalink: /skills/
+---
 # My Skills
 
 Throughout my academic and professional journey, I have gained expertise in a variety of programming languages, tools, and technologies. Below is a summary of my key skills:
