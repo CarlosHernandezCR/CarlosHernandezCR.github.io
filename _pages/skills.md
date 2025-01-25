@@ -1,53 +1,87 @@
----
-title: Skills
-permalink: /skills/
-layout: default
----
-# My Skills
-
-Throughout my academic and professional journey, I have gained expertise in a variety of programming languages, tools, and technologies. Below is a summary of my key skills:
-
-## Programming Languages
-
-- **Java**: Strong foundation in object-oriented programming and application development.
-- **Python**: Experience in scripting, automation, and data manipulation.
-- **Kotlin**: Proficient in both XML and Jetpack Compose for Android development.
-- **C**: Basic proficiency in low-level programming and algorithm design.
-- **JavaScript**: Focused on front-end development with frameworks like Vue.js and Bootstrap.
-
-## Web Development
-
-- **HTML5 and CSS3**: Proficient in designing responsive, user-friendly webpages.
-- **Vue.js**: Experienced in building dynamic, component-based front-end applications.
-- **Bootstrap**: Skilled in creating clean, modern interfaces using this framework.
-
-## Graphical User Interface (GUI) Development
-
-- **JavaFX**: Knowledge in building modern, interactive, and responsive GUI applications.
-- **Swing**: Experience in developing desktop applications with classic Java GUI components.
-
-## Databases
-
-- **SQL**: Experienced in relational database design and querying.
-- **MongoDB**: Knowledgeable in NoSQL databases and their applications.
-
-## Tools and Environments
-
-- **Integrated Development Environments (IDEs)**: Eclipse, IntelliJ IDEA, Visual Studio Code, Android Studio, MySQL Workbench, DBeaver and Access.
-- **API Development**: Postman, for testing and developing RESTful APIs.
-- **Version Control**: Git and GitHub for collaborative development.
-- **Testing**: JUnit and Mockito for writing and running unit tests.
+<div class="container my-5">
+  <h1 class="text-center mb-4">My Skills</h1>
+  <p class="text-center">Throughout my academic and professional journey, I have gained expertise in a variety of programming languages, tools, and technologies. Below is a summary of my key skills:</p>
   
-## Methodologies
+  <div class="row">
+    <div class="col-md-6 col-lg-4 mb-4">
+      <div class="card shadow-sm">
+        <div class="card-body">
+          <h5 class="card-title">Programming Languages</h5>
+          <ul class="list-unstyled">
+            <li><strong>Java:</strong> Strong foundation in object-oriented programming.</li>
+            <li><strong>Python:</strong> Scripting, automation, and data manipulation.</li>
+            <li><strong>Kotlin:</strong> Android development (XML & Jetpack Compose).</li>
+            <li><strong>C:</strong> Basic low-level programming.</li>
+            <li><strong>JavaScript:</strong> Front-end with Vue.js and Bootstrap.</li>
+          </ul>
+        </div>
+      </div>
+    </div>
 
-- **Scrum**: Experience working in agile teams using Scrum methodology for efficient project management and delivery.
+    <div class="col-md-6 col-lg-4 mb-4">
+      <div class="card shadow-sm">
+        <div class="card-body">
+          <h5 class="card-title">Web Development</h5>
+          <ul class="list-unstyled">
+            <li><strong>HTML5 & CSS3:</strong> Responsive, user-friendly webpages.</li>
+            <li><strong>Vue.js:</strong> Dynamic front-end applications.</li>
+            <li><strong>Bootstrap:</strong> Clean, modern interfaces.</li>
+          </ul>
+        </div>
+      </div>
+    </div>
 
-## Soft Skills
+    <div class="col-md-6 col-lg-4 mb-4">
+      <div class="card shadow-sm">
+        <div class="card-body">
+          <h5 class="card-title">GUI Development</h5>
+          <ul class="list-unstyled">
+            <li><strong>JavaFX:</strong> Modern and interactive GUI applications.</li>
+            <li><strong>Swing:</strong> Desktop applications with classic Java components.</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
 
-- **Problem Solving**: A logical approach to designing efficient solutions.
-- **Teamwork**: Collaborative experience in academic and professional environments.
-- **Continuous Learning**: Always seeking to expand my knowledge and improve my skills.
+  <div class="row">
+    <div class="col-md-6 col-lg-4 mb-4">
+      <div class="card shadow-sm">
+        <div class="card-body">
+          <h5 class="card-title">Databases</h5>
+          <ul class="list-unstyled">
+            <li><strong>SQL:</strong> Relational database design and querying.</li>
+            <li><strong>MongoDB:</strong> NoSQL database knowledge.</li>
+          </ul>
+        </div>
+      </div>
+    </div>
 
----
+    <div class="col-md-6 col-lg-4 mb-4">
+      <div class="card shadow-sm">
+        <div class="card-body">
+          <h5 class="card-title">Tools & Environments</h5>
+          <ul class="list-unstyled">
+            <li><strong>IDEs:</strong> Eclipse, IntelliJ, VS Code, etc.</li>
+            <li><strong>API Development:</strong> Postman for RESTful APIs.</li>
+            <li><strong>Version Control:</strong> Git and GitHub.</li>
+            <li><strong>Testing:</strong> JUnit and Mockito.</li>
+          </ul>
+        </div>
+      </div>
+    </div>
 
-Feel free to explore my [projects]([your-projects-page-url](https://github.com/CarlosHernandezCR)) or [contact me](mailto:c.hcampos@outlook.es) for more details!
+    <div class="col-md-6 col-lg-4 mb-4">
+      <div class="card shadow-sm">
+        <div class="card-body">
+          <h5 class="card-title">Soft Skills</h5>
+          <ul class="list-unstyled">
+            <li><strong>Problem Solving:</strong> Logical approach to efficient solutions.</li>
+            <li><strong>Teamwork:</strong> Collaborative experience in teams.</li>
+            <li><strong>Continuous Learning:</strong> Expanding knowledge constantly.</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
