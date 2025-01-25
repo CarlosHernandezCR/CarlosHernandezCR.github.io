@@ -1,6 +1,7 @@
 ---
 title: My Journey
 permalink: /journey/
+layout: default
 ---
 
 # My Journey in Programming
