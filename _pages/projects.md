@@ -1,3 +1,8 @@
+---
+title: Projects
+permalink: /projects/
+---
+
 # My Projects
 
 I have developed various projects that encompass the different areas I have learned, showcasing how to apply my knowledge effectively.
