@@ -6,7 +6,7 @@
     <div class="col-md-6 col-lg-4 mb-4">
       <div class="card shadow-sm">
         <div class="card-body">
-          <h5 class="card-title">Programming Languages</h5>
+        <h5 class="card-title"><i class="bi bi-code-slash"></i> Programming Languages</h5>
           <ul class="list-unstyled">
             <li><strong>Java:</strong> Strong foundation in object-oriented programming.</li>
             <li><strong>Python:</strong> Scripting, automation, and data manipulation.</li>
