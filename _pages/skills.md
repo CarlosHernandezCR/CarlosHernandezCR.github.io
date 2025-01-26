@@ -26,7 +26,7 @@ layout: default
     <div class="col-md-6 col-lg-4 mb-4">
       <div class="card shadow-sm">
         <div class="card-body">
-          <h5 class="card-title"><i class="bi bi-layout-text-sidebar-reverse"></i>Web Development</h5>
+          <h5 class="card-title"><i class="bi bi-layout-text-sidebar-reverse"></i> Web Development</h5>
           <ul class="list-unstyled">
             <li><strong>HTML5 & CSS3:</strong> Responsive, user-friendly webpages.</li>
             <li><strong>Vue.js:</strong> Dynamic front-end applications.</li>
@@ -38,7 +38,7 @@ layout: default
     <div class="col-md-6 col-lg-4 mb-4">
       <div class="card shadow-sm">
         <div class="card-body">
-          <h5 class="card-title"><i class="bi bi-box-arrow-in-up-right"></i>GUI Development</h5>
+          <h5 class="card-title"><i class="bi bi-box-arrow-in-up-right"></i> GUI Development</h5>
           <ul class="list-unstyled">
             <li><strong>JavaFX:</strong> Modern and interactive GUI applications.</li>
             <li><strong>Swing:</strong> Desktop applications with classic Java components.</li>
@@ -51,7 +51,7 @@ layout: default
     <div class="col-md-6 col-lg-4 mb-4">
       <div class="card shadow-sm">
         <div class="card-body">
-          <h5 class="card-title"><i class="bi bi-database"></i>Databases</h5>
+          <h5 class="card-title"><i class="bi bi-database"></i> Databases</h5>
           <ul class="list-unstyled">
             <li><strong>SQL:</strong> Relational database design and querying.</li>
             <li><strong>MongoDB:</strong> NoSQL database knowledge.</li>
