@@ -62,7 +62,8 @@ layout: default
     <div class="col-md-6 col-lg-4 mb-4">
       <div class="card shadow-sm">
         <div class="card-body">
-          <h5 class="card-title">Tools & Environments</h5>
+          <h5 class="card-title"><i class="bi bi-wrench"></i>
+ Tools & Environments</h5>
           <ul class="list-unstyled">
             <li><i class="bi bi-easel"></i><strong>IDEs:</strong> Eclipse, IntelliJ, VS Code, Dbeaver, MySQL Wokbench, etc.</li>
             <li><i class="bi bi-gear-wide-connected"></i><strong>API Development:</strong> Postman for RESTful APIs.</li>
@@ -75,7 +76,8 @@ layout: default
     <div class="col-md-6 col-lg-4 mb-4">
       <div class="card shadow-sm">
         <div class="card-body">
-          <h5 class="card-title">Soft Skills</h5>
+          <h5 class="card-title"><i class="bi bi-star"></i>
+ Soft Skills</h5>
           <ul class="list-unstyled">
             <li><i class="bi bi-lightbulb"></i><strong>Problem Solving:</strong> Logical approach to efficient solutions.</li>
             <li><i class="bi bi-people"></i><strong>Teamwork:</strong> Collaborative experience in teams.</li>
