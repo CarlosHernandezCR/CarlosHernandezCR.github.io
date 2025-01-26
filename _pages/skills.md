@@ -79,8 +79,8 @@ layout: default
           <h5 class="card-title"><i class="bi bi-star"></i>
  Soft Skills</h5>
           <ul class="list-unstyled">
-            <li></i><strong>Problem Solving:</strong> Logical approach to efficient solutions.</li>
-            <li></i><strong>Teamwork:</strong> Collaborative experience in teams.</li>
+            <li><strong>Problem Solving:</strong> Logical approach to efficient solutions.</li>
+            <li><strong>Teamwork:</strong> Collaborative experience in teams.</li>
             <li><strong>Continuous Learning:</strong> Expanding knowledge constantly.</li>
           </ul>
         </div>
