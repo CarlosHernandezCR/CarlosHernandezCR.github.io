@@ -65,10 +65,10 @@ layout: default
           <h5 class="card-title"><i class="bi bi-wrench"></i>
  Tools & Environments</h5>
           <ul class="list-unstyled">
-            <li><i class="bi bi-easel"></i><strong>IDEs:</strong> Eclipse, IntelliJ, VS Code, Dbeaver, MySQL Wokbench, etc.</li>
-            <li><i class="bi bi-gear-wide-connected"></i><strong>API Development:</strong> Postman for RESTful APIs.</li>
-            <li><i class="bi bi-github"></i><strong>Version Control:</strong> Git and GitHub.</li>
-            <li><i class="bi bi-check2-circle"></i><strong>Testing:</strong> JUnit and Mockito.</li>
+            <li><strong>IDEs:</strong> Eclipse, IntelliJ, VS Code, Dbeaver, MySQL Wokbench, etc.</li>
+            <li><strong>API Development:</strong> Postman for RESTful APIs.</li>
+            <li><strong>Version Control:</strong> Git and GitHub.</li>
+            <li><strong>Testing:</strong> JUnit and Mockito.</li>
           </ul>
         </div>
       </div>
@@ -79,9 +79,9 @@ layout: default
           <h5 class="card-title"><i class="bi bi-star"></i>
  Soft Skills</h5>
           <ul class="list-unstyled">
-            <li><i class="bi bi-lightbulb"></i><strong>Problem Solving:</strong> Logical approach to efficient solutions.</li>
-            <li><i class="bi bi-people"></i><strong>Teamwork:</strong> Collaborative experience in teams.</li>
-            <li><i class="bi bi-arrow-repeat"></i><strong>Continuous Learning:</strong> Expanding knowledge constantly.</li>
+            <li></i><strong>Problem Solving:</strong> Logical approach to efficient solutions.</li>
+            <li></i><strong>Teamwork:</strong> Collaborative experience in teams.</li>
+            <li><strong>Continuous Learning:</strong> Expanding knowledge constantly.</li>
           </ul>
         </div>
       </div>
