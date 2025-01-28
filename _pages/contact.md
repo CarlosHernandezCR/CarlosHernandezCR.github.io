@@ -7,7 +7,7 @@ layout: default
 ## Contact
 
 Here you have my CV for a simple way to see all my contact information:  
-[Download CV](../files/CV_Carlos_Hernandez_Campos.pdf){:download}
+<a href="../files/CV_Carlos_Hernandez_Campos.pdf" download>Download CV</a>
 
 ### Personal Information:
 - **Phone number:** +34 644 55 01 05
