@@ -12,5 +12,6 @@ On this webpage, you'll find:
 - **My Story**: How I discovered my passion for programming.
 - **Skills**: The tools and languages I have mastered.
 - **Projects**: A showcase of the projects I’ve developed throughout my journey.
+- **Contact**: My personal information and CV in order to contact me.
 
 Feel free to explore and get to know more about my work!
