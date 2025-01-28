@@ -18,4 +18,4 @@ Here you have my CV for a simple way to see all my contact information:
 - [GitHub](https://github.com/CarlosHernandezCR)
 
 ### Get in Touch
-Feel free to reach out to me for any inquiries, collaborations, or professional opportunities. I look forward to connecting with you!
+Feel free to reach out to me for any inquiries, collaborations or professional opportunities. I look forward to connecting with you!
