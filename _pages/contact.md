@@ -4,7 +4,7 @@ permalink: /contact/
 layout: default
 ---
 
-## Contact
+# Contact
 
 Here you have my CV for a simple way to see all my contact information:  
 <a href="/files/CV_Carlos_Hernandez_Campos.zip" download>Download CV</a>
