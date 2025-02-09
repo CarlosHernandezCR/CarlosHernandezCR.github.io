@@ -62,7 +62,7 @@ layout: default
                 <li><strong>JDBC:</strong> Java Database Connectivity for database interactions.</li>
                 <li><strong>Hibernate:</strong> ORM framework for Java-based database management.</li>
                 <li><strong>Spring Data:</strong> Simplified data access in Spring applications.</li>
-                <li><strong>CSV & TXT:</strong> Handling structured and unstructured data formats.</li>
+                <li><strong>CSV & TXT:</strong> Handling structured and unstructured data formats, mainly used for backups.</li>
               </ul>
             </div>
           </div>
