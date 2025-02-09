@@ -52,12 +52,12 @@ layout: default
       <div class="card shadow-sm">
         <div class="card-body">
               <h5 class="card-title"><i class="bi bi-database"></i> Databases & Data Management</h5>
-              <h6><i class="bi bi-server"></i> Database Languages</h6>
+              <h6> Languages</h6>
               <ul class="list-unstyled">
                 <li><strong>SQL:</strong> Relational database design and querying.</li>
                 <li><strong>MongoDB:</strong> NoSQL database knowledge.</li>
               </ul>
-              <h6><i class="bi bi-gear"></i> Database Management</h6>
+              <h6> Management</h6>
               <ul class="list-unstyled">
                 <li><strong>JDBC:</strong> Java Database Connectivity for database interactions.</li>
                 <li><strong>Hibernate:</strong> ORM framework for Java-based database management.</li>
