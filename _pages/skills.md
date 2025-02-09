@@ -73,7 +73,7 @@ layout: default
           <h5 class="card-title"><i class="bi bi-wrench"></i>
  Tools & Environments</h5>
           <ul class="list-unstyled">
-            <li><strong>IDEs:</strong> Eclipse, IntelliJ, VS Code, Dbeaver, MySQL Wokbench, etc.</li>
+            <li><strong>IDEs:</strong> Eclipse, IntelliJ, VS Code, Dbeaver, MySQL Wokbench, Oracle VirtualBox</li>
             <li><strong>API Development:</strong> Postman for RESTful APIs.</li>
             <li><strong>Version Control:</strong> Git and GitHub.</li>
             <li><strong>Testing:</strong> JUnit and Mockito.</li>
