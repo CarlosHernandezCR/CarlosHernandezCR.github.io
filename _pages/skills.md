@@ -26,7 +26,7 @@ layout: default
     <div class="col-md-6 col-lg-4 mb-4">
       <div class="card shadow-sm">
         <div class="card-body">
-          <h5 class="card-title"><i class="bi bi-layout-text-sidebar-reverse"></i> Web Development</h5>
+          <h5 class="card-title"><i class="bi bi-globe"></i> Web Development</h5>
           <ul class="list-unstyled">
             <li><strong>HTML5 & CSS3:</strong> Responsive, user-friendly webpages.</li>
             <li><strong>Vue.js:</strong> Dynamic front-end applications.</li>
