@@ -18,7 +18,7 @@ layout: default
             <li><strong>Python:</strong> Scripting, automation, and data manipulation.</li>
             <li><strong>Kotlin:</strong> Android development (XML & Jetpack Compose).</li>
             <li><strong>C:</strong> Basic low-level programming.</li>
-            <li><strong>JavaScript:</strong> Front-end with Vue.js and Bootstrap.</li>
+            <li><strong>Swift:</strong> Primary language for iOS app development (iPhone & iPad).</li>
           </ul>
         </div>
       </div>
@@ -51,14 +51,22 @@ layout: default
     <div class="col-md-6 col-lg-4 mb-4">
       <div class="card shadow-sm">
         <div class="card-body">
-          <h5 class="card-title"><i class="bi bi-database"></i> Databases</h5>
-          <ul class="list-unstyled">
-            <li><strong>SQL:</strong> Relational database design and querying.</li>
-            <li><strong>MongoDB:</strong> NoSQL database knowledge.</li>
-          </ul>
+              <h5 class="card-title"><i class="bi bi-database"></i> Databases & Data Management</h5>
+              <h6><i class="bi bi-server"></i> Database Languages</h6>
+              <ul class="list-unstyled">
+                <li><strong>SQL:</strong> Relational database design and querying.</li>
+                <li><strong>MongoDB:</strong> NoSQL database knowledge.</li>
+              </ul>
+              <h6><i class="bi bi-gear"></i> Database Management</h6>
+              <ul class="list-unstyled">
+                <li><strong>JDBC:</strong> Java Database Connectivity for database interactions.</li>
+                <li><strong>Hibernate:</strong> ORM framework for Java-based database management.</li>
+                <li><strong>Spring Data:</strong> Simplified data access in Spring applications.</li>
+                <li><strong>CSV & TXT:</strong> Handling structured and unstructured data formats.</li>
+              </ul>
+            </div>
+          </div>
         </div>
-      </div>
-    </div>
     <div class="col-md-6 col-lg-4 mb-4">
       <div class="card shadow-sm">
         <div class="card-body">
