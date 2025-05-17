@@ -14,6 +14,6 @@ Here are some of the most notable projects I’ve worked on:
 - **[Pagina_Restaurante](https://github.com/CarlosHernandezCR/Pagina_Restaurante)**: A webpage for an Italian restaurant, designed using HTML5, CSS3, JavaScript, and Bootstrap.
 - **[Ajedrez](https://github.com/CarlosHernandezCR/Ajedrez)**: A chess game designed in Java to be played on the console.
 - **[Manejo_BBDD](https://github.com/CarlosHernandezCR/Manejo_BBDD)**: Various methods for managing and updating data across different databases.
-- **[AtHomeTFG](https://github.com/CarlosHernandezCR/AtHomeTFG)**: My final degree project, an Android app with a Spring Boot backend and a download webpage.
+- **[AtHome](https://github.com/CarlosHernandezCR/AtHomeTFG)**: My final degree project, an Android app with a Spring Boot backend and a download webpage.
 
 Each project reflects my passion for creating efficient, user-friendly solutions. Feel free to explore them and reach out if you’d like to collaborate or know more!
